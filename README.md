@@ -33,6 +33,8 @@ These statistics only show that access for women to tech education and career op
 
 The blockchain industry is an environment where the skills and talent of an individual are valued more than their background and identity, and it breaks away from the norm that currently exists and poses an opportunity for women to come onboard and make their place in the field.
 
+Women W3mpowerment aims to address these issues by bringing more women to the industry, and by diversifying the community.
+
  <h1 align="center">
  
 <a href="https://docs.google.com/presentation/d/1uzAW8c5_BzhDXxNl2b5kcJslLG99DWhQ/edit?usp=sharing&ouid=104208097624635559086&rtpof=true&sd=true" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/116645164/198328547-a36f6e3e-eea0-46ed-8ef0-57cd2dda8dd6.png" width="200" height="200">
