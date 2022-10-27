@@ -33,4 +33,17 @@ The blockchain industry is an environment where the skills and talent of an indi
  
 <a href="https://docs.google.com/presentation/d/1uzAW8c5_BzhDXxNl2b5kcJslLG99DWhQ/edit?usp=sharing&ouid=104208097624635559086&rtpof=true&sd=true" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/116645164/198328547-a36f6e3e-eea0-46ed-8ef0-57cd2dda8dd6.png" width="200" height="200">
 
+
+ ```www.womenw3mpowerment.io/```
  </h1>
+
+<h1 align="center">
+
+Follow us on social: 
+
+  </h1>
+
+<h1 align="center"> </a> <a href="https://www.linkedin.com/company/women-w3mpowerment/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /></a>  <a href="https://www.instagram.com/women_w3mpowerment/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="50" height="50" /></a><a href="https://twitter.com/ww3mpowerment" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="50" height="50" /></a> 
+
+</h1>
+
