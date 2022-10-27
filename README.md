@@ -17,13 +17,17 @@ With this initiative we aim to address:
 
 History shows that the technology and financial sectors have always been male-dominated. Although women outnumber men at the education level, when it comes to participation and collaboration in tech-oriented services, men outnumber women. 
 
-Despite the recent hypergrowth of the blockchain industry, women still remain underrepresented in the fields of technology and web3 in general. 
+Despite the recent hypergrowth of the blockchain industry, women still remain underrepresented in the fields of blockchain, and technology in general.
 
-Women make up only **28.8% of the tech workforce** with **only 16% of women in senior-level tech jobs** and **10% in executive positions**. 
+- Women make up only **28.8% of the tech workforce** 
 
-Moreover, **Black**, **Multiracial**, **Indigenous**, **Pacific Islander**, and **Latin** Women made up the bottom **6% of all tech industry new hires**. 
+- **Only 16% of women in senior-level tech jobs** 
 
-**Female-founded blockchain projects** received **only 2%** of venture capital in 2020. 
+- **10% in executive positions**. 
+
+- **Black**, **Multiracial**, **Indigenous**, **Pacific Islander**, and **Latin** Women made up the bottom **6% of all tech industry new hires**. 
+
+- **Female-founded blockchain projects** received **only 2%** of venture capital in 2020. 
 
 These statistics only show that access for women to tech education and career opportunities is still limited, which tends to hold them back from achieving their highest potential. 
 
