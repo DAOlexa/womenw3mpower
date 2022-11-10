@@ -1,6 +1,6 @@
  <h1 align="center">
  
- ```Women W3mpowerment```
+ ```Women W3mpower```
  
    </h1>
 
@@ -49,7 +49,6 @@ Follow us on social:
 
   </h1>
 
-<h1 align="center"> </a> <a href="https://www.linkedin.com/company/women-w3mpowerment/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /></a>  <a href="https://www.instagram.com/women_w3mpowerment/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="50" height="50" /></a><a href="https://twitter.com/ww3mpowerment" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="50" height="50" /></a> 
-
+<h1 align="center"> </a> <a href="https://www.linkedin.com/company/women-w3mpowerment/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /></a> 
 </h1>
 
