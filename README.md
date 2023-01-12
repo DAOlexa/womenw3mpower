@@ -37,8 +37,7 @@ Legal Womxn in Blockchain aims to address these issues by bringing more women to
 
  <h1 align="center">
  
-<a href="https://docs.google.com/presentation/d/1uzAW8c5_BzhDXxNl2b5kcJslLG99DWhQ/edit?usp=sharing&ouid=104208097624635559086&rtpof=true&sd=true" target="_blank" rel="noreferrer"> <img src="![](https://ibb.co/9hMykPD)" width="200" height="200">
-
+![](https://ibb.co/9hMykPD)
 
  ```www.womxnw3mpower.io```
  </h1>
